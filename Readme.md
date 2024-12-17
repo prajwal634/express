@@ -181,6 +181,7 @@ The original author of Express is [TJ Holowaychuk](https://github.com/tj)
 * [sheplu](https://github.com/sheplu) - **Jean Burellier**
 * [crandmck](https://github.com/crandmck) - **Rand McKinney**
 * [ctcpip](https://github.com/ctcpip) - **Chris de Almeida**
+* #pana college
 
 <details>
 <summary>TC emeriti members</summary>
